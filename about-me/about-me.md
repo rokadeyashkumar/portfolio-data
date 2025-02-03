@@ -1,3 +1,5 @@
+# Design Meets Engineering
+
 I help teams translate ideas into functional and impactful web experiences. With a background in **Computer Science Engineering** and years of hands-on experience, I bridge the gap between design and technology to create seamless digital solutions.
 
 ---
