@@ -40,17 +40,17 @@
     "desc": "Server Scripting"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/python.png?raw=true",
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data//main/skills/skill-img/python.png?raw=true",
     "name": "Python",
     "desc": "Backend Scripting"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/c.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/c.png?raw=true",
     "name": "C",
     "desc": "Programming Language"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/c++.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/c++.png?raw=true",
     "name": "C++",
     "desc": "Programming Language"
   },
@@ -60,12 +60,12 @@
     "desc": "Code Hosting"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/graphic.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/graphic.png?raw=true",
     "name": "Graphic Designing",
     "desc": "Visual Design"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/webdesign.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/webdesign.png?raw=true",
     "name": "Web Designing",
     "desc": "UI/Web Design"
   },
@@ -80,12 +80,12 @@
     "desc": "Vector Design"
   },
   {
-    "url": "https://example.com/excel.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/excel.png?raw=true",
     "name": "Excel",
     "desc": "Data Sheets"
   },
   {
-    "url": "https://example.com/word.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/word.png?raw=true",
     "name": "Word",
     "desc": "Docs & Reports"
   }
