@@ -60,6 +60,11 @@
     "desc": "Programming Language"
   },
   {
+  "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/java.png?raw=true",
+  "name": "Java",
+  "desc": "OOP Language"
+  },
+  {
     "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/github.png?raw=true",
     "name": "GitHub",
     "desc": "Code Hosting"
