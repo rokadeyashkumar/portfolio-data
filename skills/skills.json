@@ -35,12 +35,37 @@
     "desc": "Server Scripting"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/github.png?raw=true",
-    "name": "GitHub",
-    "desc": "Code hosting & collaboration"
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/python.png",
+    "name": "Python",
+    "desc": "Backend Scripting"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/photoshop.png?raw=tru",
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/c.png",
+    "name": "C",
+    "desc": "Programming Language"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/cpp.png",
+    "name": "C++",
+    "desc": "Programming Language"
+  },
+  {
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/github.png?raw=true",
+    "name": "GitHub",
+    "desc": "Code Hosting"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/graphic.png",
+    "name": "Graphic Designing",
+    "desc": "Visual Design"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/webdesign.png",
+    "name": "Web Designing",
+    "desc": "UI/Web Design"
+  },
+  {
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/photoshop.png?raw=true",
     "name": "Photoshop",
     "desc": "Image Editing"
   },
