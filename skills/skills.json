@@ -5,6 +5,11 @@
     "desc": "UI/UX Design Tool"
   },
   {
+  "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/tool-icon/adobexd.png?raw=true",
+  "name": "Adobe XD",
+  "desc": "UI Prototyping"
+  },
+  {
     "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/html.png?raw=true",
     "name": "HTML",
     "desc": "Markup Language"
@@ -73,5 +78,15 @@
     "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/illustrator.png?raw=true",
     "name": "Illustrator",
     "desc": "Vector Design"
-  }
+  },
+  {
+  "url": "https://example.com/excel-icon.png",
+  "name": "Excel",
+  "desc": "Data Sheets"
+},
+{
+  "url": "https://example.com/word-icon.png",
+  "name": "Word",
+  "desc": "Docs & Reports"
+}
 ]
