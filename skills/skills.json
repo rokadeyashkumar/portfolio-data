@@ -1,36 +1,36 @@
 [
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/figma.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/figma.png?raw=true",
     "name": "Figma",
     "desc": "UI/UX Design Tool"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/html.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/html.png?raw=true",
     "name": "HTML",
     "desc": "Markup Language"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/css.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/css.png?raw=true",
     "name": "CSS",
     "desc": "Styling Layouts"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/scss.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/scss.png?raw=true",
     "name": "SCSS",
     "desc": "Advanced CSS"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/react.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/react.png?raw=true",
     "name": "React",
     "desc": "Frontend Library"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/node-js.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/node-js.png?raw=true",
     "name": "Node.js",
     "desc": "Backend Runtime"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/php.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/php.png?raw=true",
     "name": "PHP",
     "desc": "Server Scripting"
   },
@@ -40,7 +40,7 @@
     "desc": "Image Editing"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/skills/skill-img/llustrator.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/llustrator.png?raw=true",
     "name": "Illustrator",
     "desc": "Vector Design"
   }
