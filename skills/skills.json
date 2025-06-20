@@ -5,7 +5,7 @@
     "desc": "UI/UX Design Tool"
   },
   {
-    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/figma.png?raw=true",
+    "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/xd.png?raw=true",
     "name": "Adobe XD",
     "desc": "UI Prototyping"
   },
@@ -40,17 +40,17 @@
     "desc": "Server Scripting"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/python.png",
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/python.png?raw=true",
     "name": "Python",
     "desc": "Backend Scripting"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/c.png",
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/c.png?raw=true",
     "name": "C",
     "desc": "Programming Language"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/cpp.png",
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/c++.png?raw=true",
     "name": "C++",
     "desc": "Programming Language"
   },
@@ -60,12 +60,12 @@
     "desc": "Code Hosting"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/graphic.png",
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/graphic.png?raw=true",
     "name": "Graphic Designing",
     "desc": "Visual Design"
   },
   {
-    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/webdesign.png",
+    "url": "https://raw.githubusercontent.com/rokadeyashkumar/portfolio-data/main/tool-icon/webdesign.png?raw=true",
     "name": "Web Designing",
     "desc": "UI/Web Design"
   },
@@ -80,13 +80,13 @@
     "desc": "Vector Design"
   },
   {
-  "url": "https://example.com/excel-icon.png",
-  "name": "Excel",
-  "desc": "Data Sheets"
-},
-{
-  "url": "https://example.com/word-icon.png",
-  "name": "Word",
-  "desc": "Docs & Reports"
-}
+    "url": "https://example.com/excel.png?raw=true",
+    "name": "Excel",
+    "desc": "Data Sheets"
+  },
+  {
+    "url": "https://example.com/word.png?raw=true",
+    "name": "Word",
+    "desc": "Docs & Reports"
+  }
 ]
