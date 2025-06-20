@@ -88,5 +88,11 @@
     "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/word.png?raw=true",
     "name": "Word",
     "desc": "Docs & Reports"
-  }
+  },
+  {
+  "url": "https://github.com/rokadeyashkumar/portfolio-data/blob/main/skills/skill-img/notion.png?raw=true",
+  "name": "Notion",
+  "desc": "Docs & Organization"
+}
+
 ]
